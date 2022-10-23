@@ -1,4 +1,4 @@
-from subprocess import Popen, PIPE
+from subprocess import Popen, PIPE  # nosec
 import time
 from threading import Thread
 import sys
